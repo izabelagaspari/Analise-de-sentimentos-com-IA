@@ -11,6 +11,11 @@ O projeto faz uso de modelos treinados e APIs de IA, como a **Azure IA Speech**
 
 ## Tecnologias Usadas
 
-- **Azure IA Speech**: API de análise de sentimentos baseada em IA.
+- **Azure Language Studio**: API de análise de sentimentos baseada em IA.
+
+
+## Teste Positivo
+
+![Teste Positivo](imagens/positivo.png)
   
 
